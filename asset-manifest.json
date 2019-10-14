@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dvd2x/noteful-client.git/static/css/main.b100e6da.chunk.css",
+    "main.js": "/dvd2x/noteful-client.git/static/js/main.82a1859b.chunk.js",
+    "main.js.map": "/dvd2x/noteful-client.git/static/js/main.82a1859b.chunk.js.map",
+    "runtime-main.js": "/dvd2x/noteful-client.git/static/js/runtime-main.325ba70a.js",
+    "runtime-main.js.map": "/dvd2x/noteful-client.git/static/js/runtime-main.325ba70a.js.map",
+    "static/js/2.fafbc5ab.chunk.js": "/dvd2x/noteful-client.git/static/js/2.fafbc5ab.chunk.js",
+    "static/js/2.fafbc5ab.chunk.js.map": "/dvd2x/noteful-client.git/static/js/2.fafbc5ab.chunk.js.map",
+    "index.html": "/dvd2x/noteful-client.git/index.html",
+    "precache-manifest.0590d73ed291c3abb9c8587cf359299b.js": "/dvd2x/noteful-client.git/precache-manifest.0590d73ed291c3abb9c8587cf359299b.js",
+    "service-worker.js": "/dvd2x/noteful-client.git/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/dvd2x/noteful-client.git/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/dvd2x/noteful-client.git/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.325ba70a.js",
+    "static/js/2.fafbc5ab.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.82a1859b.chunk.js"
+  ]
+}
